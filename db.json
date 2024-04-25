@@ -1,0 +1,41 @@
+[
+  {
+      "postId": 1,
+      "username": "ABC",
+      "postDesc": "Iam ABC",
+      "experience": "2",
+      "postTechStack": [
+          "Reactjs"
+      ]
+  },
+  {
+      "postId": 2,
+      "username": "XYZ",
+      "postDesc": "Iam xyz",
+      "experience": "5",
+      "postTechStack": [
+          "HTML",
+          "CSS"
+      ]
+  },
+  {
+      "postId": 3,
+      "username": "Surya",
+      "postDesc": "Iam surya",
+      "experience": "1.5",
+      "postTechStack": [
+          "HTML",
+          "CSS",
+          "Java"
+      ]
+  },
+  {
+      "postId": 4,
+      "username": "Praveen",
+      "postDesc": "Iam praveen",
+      "experience": "2",
+      "postTechStack": [
+          "IIB"
+      ]
+  }
+]
